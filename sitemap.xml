@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://atharva.social/feed/3dprinting/</loc>
+    <lastmod>2020-03-28T18:37:19+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://atharva.social/feed/processandtests/</loc>
     <lastmod>2020-01-01T14:51:03+05:30</lastmod>
   </url>
@@ -39,13 +44,13 @@
   
   <url>
     <loc>http://atharva.social/</loc>
-    <lastmod>2020-01-01T14:51:03+05:30</lastmod>
+    <lastmod>2020-03-28T18:37:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://atharva.social/feed/</loc>
-    <lastmod>2020-01-01T14:51:03+05:30</lastmod>
+    <lastmod>2020-03-28T18:37:19+05:30</lastmod>
     <priority>0</priority>
   </url>
   
