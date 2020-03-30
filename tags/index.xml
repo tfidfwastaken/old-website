@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2019 15:57:20 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 18:37:19 +0530</lastBuildDate>
     
 	<atom:link href="http://atharva.social/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3dprinting</title>
+      <link>http://atharva.social/tags/3dprinting/</link>
+      <pubDate>Sat, 28 Mar 2020 18:37:19 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/3dprinting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>India</title>
@@ -35,6 +44,15 @@
       <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
       
       <guid>http://atharva.social/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Thoughts</title>
+      <link>http://atharva.social/tags/random-thoughts/</link>
+      <pubDate>Wed, 01 Jan 2020 14:51:03 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/random-thoughts/</guid>
       <description></description>
     </item>
     
