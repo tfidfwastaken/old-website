@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 19:07:11 +0530</lastBuildDate>
     
-	<atom:link href="http://atharva.social/feed/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://atharva.social/feed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,25 @@
       <pubDate>Sun, 29 Mar 2020 19:07:11 +0530</pubDate>
       
       <guid>http://atharva.social/feed/whywrite/</guid>
-      <description>My heuristic for figuring out whether I should say anything online:
- Has anyone said it more eloquently? Does it say/reveal something sufficiently new for most of the readers that will come across it? 1 Is my perspective on this is sufficiently unique and dictated by my experience?  And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.
- Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite [return]   </description>
+      <description>&lt;p&gt;My heuristic for figuring out whether I should say anything online:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has anyone said it more eloquently?&lt;/li&gt;
+&lt;li&gt;Does it say/reveal something sufficiently new for most of the readers that will come across it? &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Is my perspective on this is sufficiently unique and dictated by my experience?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +44,11 @@
       <pubDate>Sat, 28 Mar 2020 18:37:19 +0530</pubDate>
       
       <guid>http://atharva.social/feed/3dprinting/</guid>
-      <description>I did not realise that 3D printers are reasonably affordable now — one of those few things that make me feel like 2020 has arrived.
-Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.</description>
+      <description>&lt;p&gt;I did not realise that 3D printers are reasonably affordable now —
+one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
+
+&lt;p&gt;Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,10 +57,29 @@ Now the only need that remains is a steady supply of electricity that will let m
       <pubDate>Wed, 01 Jan 2020 14:51:03 +0530</pubDate>
       
       <guid>http://atharva.social/feed/processandtests/</guid>
-      <description>A test evaluates the outcome of a process.
-A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.1
-Examples that come to mind:
- Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.</description>
+      <description>&lt;p&gt;A test evaluates the outcome of a process.&lt;/p&gt;
+
+&lt;p&gt;A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Examples that come to mind:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.&lt;/li&gt;
+&lt;li&gt;The Governments that modify the statistical criteria to make their economic growth look better.&lt;/li&gt;
+&lt;li&gt;p-value hacking in scientific journals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looks nice until we have to clean the mess of unemployable people taught to learn by rote, bad governance and bad science.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;I feel like I read a similar idea expressed somewhere on the internet recently but cannot put a finger to what and by whom it was. Oopsie. I&amp;rsquo;ll update this entry if I do find out.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -50,8 +88,29 @@ Examples that come to mind:
       <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
       
       <guid>http://atharva.social/feed/vim/</guid>
-      <description>A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.
-Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.</description>
+      <description>&lt;p&gt;A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.&lt;/p&gt;
+
+&lt;p&gt;Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.&lt;/p&gt;
+
+&lt;p&gt;So with the irony not lost on me, here&amp;rsquo;s what I have to say about Vim, and whether it&amp;rsquo;s worth learning:&lt;/p&gt;
+
+&lt;p&gt;Vim is a trade-off involving time. To an experienced Vimmer, it supposedly greatly increases productivity. But to get to that experience where you are supposedly &lt;a href=&#34;https://wrongsideofmemphis.com/2013/03/27/vim-speed-is-not-really-the-point/&#34;&gt;coding like a samurai&lt;/a&gt; you need to invest time into learning this complicated multimodal paradigm for editing text.&lt;/p&gt;
+
+&lt;p&gt;As someone who invested a decent chunk of this time, it sure &lt;em&gt;feels&lt;/em&gt; faster and I am probably not going back to the standard way. But has it actually increased my productivity? I cannot tell as of now.&lt;/p&gt;
+
+&lt;p&gt;So if I am ever asked about whether one should learn Vim, I&amp;rsquo;d recommend against using it. Because the learning cost is huge and the benefit gained from it is, in my opinion, largely varying from person-to-person. So its worth is not clear. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;And this, shall be the first and last time I write about Vim.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Sysadmins – You have a stronger argument, as most *nix machines support Vim and it&amp;rsquo;s terminal friendly. But editors like nano exist as well with little to no learning curve.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -60,8 +119,19 @@ Yet I found most of it not constructive to my personal experience of using Vim. 
       <pubDate>Sat, 21 Dec 2019 13:45:50 +0530</pubDate>
       
       <guid>http://atharva.social/feed/internet-shutdown/</guid>
-      <description>You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.
-Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.</description>
+      <description>&lt;p&gt;You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.&lt;/p&gt;
+
+&lt;p&gt;Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.&lt;/p&gt;
+
+&lt;p&gt;And you end up with scenarios straight out of a dark comedy.
+As &lt;a href=&#34;https://www.medianama.com/2017/12/223-namapolicy-internet-shutdowns-happen-work/&#34;&gt;this article explains&lt;/a&gt;,&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An amusing outcome of the 100-day ban was that since the internet was down, a state government order to lift the shutdown from Kolkata didn’t reach Darjeeling on time, so the ban kept getting extended by the district administration.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s worth noting that if your area faces frequent internet shutdowns, it&amp;rsquo;s nice to keep &lt;a href=&#34;https://www.freepressjournal.in/india/internet-shutdown-toolkit-list-of-messaging-apps-that-will-work-without-internet&#34;&gt;these&lt;/a&gt;  in stock.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

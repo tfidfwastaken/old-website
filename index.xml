@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 19:07:11 +0530</lastBuildDate>
     
-	<atom:link href="http://atharva.social/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://atharva.social/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,25 @@
       <pubDate>Sun, 29 Mar 2020 19:07:11 +0530</pubDate>
       
       <guid>http://atharva.social/feed/whywrite/</guid>
-      <description>My heuristic for figuring out whether I should say anything online:
- Has anyone said it more eloquently? Does it say/reveal something sufficiently new for most of the readers that will come across it? 1 Is my perspective on this is sufficiently unique and dictated by my experience?  And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.
- Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite [return]   </description>
+      <description>&lt;p&gt;My heuristic for figuring out whether I should say anything online:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has anyone said it more eloquently?&lt;/li&gt;
+&lt;li&gt;Does it say/reveal something sufficiently new for most of the readers that will come across it? &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Is my perspective on this is sufficiently unique and dictated by my experience?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -28,8 +44,11 @@
       <pubDate>Sat, 28 Mar 2020 18:37:19 +0530</pubDate>
       
       <guid>http://atharva.social/feed/3dprinting/</guid>
-      <description>I did not realise that 3D printers are reasonably affordable now — one of those few things that make me feel like 2020 has arrived.
-Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.</description>
+      <description>&lt;p&gt;I did not realise that 3D printers are reasonably affordable now —
+one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
+
+&lt;p&gt;Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,10 +57,29 @@ Now the only need that remains is a steady supply of electricity that will let m
       <pubDate>Wed, 01 Jan 2020 14:51:03 +0530</pubDate>
       
       <guid>http://atharva.social/feed/processandtests/</guid>
-      <description>A test evaluates the outcome of a process.
-A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.1
-Examples that come to mind:
- Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.</description>
+      <description>&lt;p&gt;A test evaluates the outcome of a process.&lt;/p&gt;
+
+&lt;p&gt;A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Examples that come to mind:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.&lt;/li&gt;
+&lt;li&gt;The Governments that modify the statistical criteria to make their economic growth look better.&lt;/li&gt;
+&lt;li&gt;p-value hacking in scientific journals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looks nice until we have to clean the mess of unemployable people taught to learn by rote, bad governance and bad science.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;I feel like I read a similar idea expressed somewhere on the internet recently but cannot put a finger to what and by whom it was. Oopsie. I&amp;rsquo;ll update this entry if I do find out.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -50,8 +88,29 @@ Examples that come to mind:
       <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
       
       <guid>http://atharva.social/feed/vim/</guid>
-      <description>A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.
-Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.</description>
+      <description>&lt;p&gt;A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.&lt;/p&gt;
+
+&lt;p&gt;Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.&lt;/p&gt;
+
+&lt;p&gt;So with the irony not lost on me, here&amp;rsquo;s what I have to say about Vim, and whether it&amp;rsquo;s worth learning:&lt;/p&gt;
+
+&lt;p&gt;Vim is a trade-off involving time. To an experienced Vimmer, it supposedly greatly increases productivity. But to get to that experience where you are supposedly &lt;a href=&#34;https://wrongsideofmemphis.com/2013/03/27/vim-speed-is-not-really-the-point/&#34;&gt;coding like a samurai&lt;/a&gt; you need to invest time into learning this complicated multimodal paradigm for editing text.&lt;/p&gt;
+
+&lt;p&gt;As someone who invested a decent chunk of this time, it sure &lt;em&gt;feels&lt;/em&gt; faster and I am probably not going back to the standard way. But has it actually increased my productivity? I cannot tell as of now.&lt;/p&gt;
+
+&lt;p&gt;So if I am ever asked about whether one should learn Vim, I&amp;rsquo;d recommend against using it. Because the learning cost is huge and the benefit gained from it is, in my opinion, largely varying from person-to-person. So its worth is not clear. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;And this, shall be the first and last time I write about Vim.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Sysadmins – You have a stronger argument, as most *nix machines support Vim and it&amp;rsquo;s terminal friendly. But editors like nano exist as well with little to no learning curve.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -60,8 +119,19 @@ Yet I found most of it not constructive to my personal experience of using Vim. 
       <pubDate>Sat, 21 Dec 2019 13:45:50 +0530</pubDate>
       
       <guid>http://atharva.social/feed/internet-shutdown/</guid>
-      <description>You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.
-Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.</description>
+      <description>&lt;p&gt;You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.&lt;/p&gt;
+
+&lt;p&gt;Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.&lt;/p&gt;
+
+&lt;p&gt;And you end up with scenarios straight out of a dark comedy.
+As &lt;a href=&#34;https://www.medianama.com/2017/12/223-namapolicy-internet-shutdowns-happen-work/&#34;&gt;this article explains&lt;/a&gt;,&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An amusing outcome of the 100-day ban was that since the internet was down, a state government order to lift the shutdown from Kolkata didn’t reach Darjeeling on time, so the ban kept getting extended by the district administration.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s worth noting that if your area faces frequent internet shutdowns, it&amp;rsquo;s nice to keep &lt;a href=&#34;https://www.freepressjournal.in/india/internet-shutdown-toolkit-list-of-messaging-apps-that-will-work-without-internet&#34;&gt;these&lt;/a&gt;  in stock.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -70,8 +140,209 @@ Human rights violations and suppression of freedom reasons aside — it is still
       <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
       
       <guid>http://atharva.social/posts/openforge/</guid>
-      <description>I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent. In fact they have a whole platform that hosts repositories for a whole lot of&amp;hellip; you&amp;rsquo;ll see.
-Openforge Around 2015 the Ministry of Electronics and IT (MeitY)1 made a bunch of policies that provided a framework for government source code in repositories and stuff.</description>
+      <description>
+
+&lt;p&gt;I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent.
+In fact they have a whole platform that hosts repositories for a whole lot of&amp;hellip; you&amp;rsquo;ll see.&lt;/p&gt;
+
+&lt;h3 id=&#34;openforge&#34;&gt;Openforge&lt;/h3&gt;
+
+&lt;p&gt;Around 2015 the Ministry of Electronics and IT (MeitY)&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; made a bunch of policies that provided a framework for government source code in repositories and stuff.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to 2017 and the government brought in Amit Ranjan as the architect of Openforge. Interestingly, Amit Ranjan comes the startup world and was the co-founder and COO of SlideShare.
+No wonder the site looks prettier than what you&amp;rsquo;d typically expect from the Indian Government.&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;full_site.jpg&#34; alt=&#34;Full Site&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So I obviously decided to explore and see how it&amp;rsquo;s coming along.&lt;/p&gt;
+
+&lt;h3 id=&#34;closedforge&#34;&gt;Closedforge&lt;/h3&gt;
+
+&lt;p&gt;One of the first few things I did was register an account on their portal, and jumped right into the projects hosted on it. Navigation was decent, although most projects didn&amp;rsquo;t bother categorising themselves properly, which limits the usefulness of having all these categories in the first place.&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;categs.png&#34; alt=&#34;Too much not specified&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Star of the show: Not Specified
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So I instead sorted by popularity. Surely that would give a good picture of what the Openforge community is like, right?&lt;/p&gt;
+
+&lt;p&gt;If that&amp;rsquo;s the case it&amp;rsquo;s one sad scene only.&lt;/p&gt;
+
+&lt;p&gt;The projects itself seem pretty interesting. The Government&amp;rsquo;s e-Marketplace is currently the most popular project there. It&amp;rsquo;s what the ministries are apparently using as a marketplace for procurement of goods. So I click on it. Time to see that glorious, augustine source code.&lt;/p&gt;
+
+&lt;p&gt;The git dashboard is pretty complete, especially for a kid like me. You can see the project tree, commits, diffs and logs. A reference to the documentation shows that if a project requires it, you can setup dashboards on the project page for Continuous Integration, Mailing Lists, Wikis, Agile and a whole other bunch of stuff that I know nothing about. It has support for trackers and a REST API too (Though the docs don&amp;rsquo;t make it clear enough as to what it actually does).&lt;/p&gt;
+
+&lt;p&gt;Oh, and it supports SVN too.&lt;/p&gt;
+
+&lt;p&gt;There is no syntax highlighting yet though. Not a deal breaker, in my opinion.&lt;/p&gt;
+
+&lt;p&gt;After that I hopped on to the next project, called &amp;ldquo;Delhi Police-onetouch&amp;rdquo;. It said I need to log in to view the code contents.&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;loginplis.png&#34; alt=&#34;Login Prompt&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Alrighty then I&amp;rsquo;ll&amp;hellip; oh wait. I am already logged in!&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s strange. The project&amp;rsquo;s privacy settings are set to &amp;ldquo;public&amp;rdquo;, so that&amp;rsquo;s no issue. Either Openforge doesn&amp;rsquo;t straight up do its job well, or there is a bug and the message is supposed to be something else.&lt;/p&gt;
+
+&lt;p&gt;With no way to see that, I decided to move on to the next one in the list.&lt;/p&gt;
+
+&lt;p&gt;Same issue. Oh well. Next one? Yep, still happening.&lt;/p&gt;
+
+&lt;p&gt;I got till the tenth project listed there before I gave up. So much for the &lt;em&gt;Open&lt;/em&gt; in Openforge&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also in the projects that did work, the website wasn&amp;rsquo;t nearly as snappy in fetching the code as I&amp;rsquo;d like.&lt;/p&gt;
+
+&lt;h3 id=&#34;community&#34;&gt;Community&lt;/h3&gt;
+
+&lt;p&gt;The homepage says that students, academia, startups, Open Source Devs and Corporations are free to participate in the platform. The caveat being all the registered projects have to have some overlap with governance or civic areas. So all registered projects have to pass this filter in order to be hosted on Openforge. And members who don&amp;rsquo;t work for any government department cannot make private projects.&lt;/p&gt;
+
+&lt;p&gt;According to the FAQ&amp;rsquo;s the reason Openforge was made even though GitHub and SourceForge exist is because of this government application specialisation&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; and the fact that many government employees face restrictions on putting their data on foreign servers.&lt;/p&gt;
+
+&lt;p&gt;Okay then.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s see what Real People on Openforge are saying. Onto the forums!&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;forums.png&#34; alt=&#34;Forums page&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        These are all the messages ever posted on these forums
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Here are some assorted snippets of interesting conversations:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;1-the-blockchainer&#34;&gt;1. The blockchainer&lt;/h4&gt;
+
+&lt;p&gt;By: Abhishek Upperwal (a.upperwal)&lt;br /&gt;
+Problems you face while filing an FIR&lt;br /&gt;
+21/10/2018 at 10:00 AM&lt;/p&gt;
+
+&lt;p&gt;I look forward to compile a list of issues people face while filing an FIR. We plan to design a decentralised solution (based on blockchains) for complaint redressal system which can register a complaint which is tamper proof and the entire life cycle of the complaint can be committed and tracked on the same chain. This will bring in more transparency and build a tamper proof system.&lt;/p&gt;
+
+&lt;p&gt;I am aware of privacy related issues and tackle them as we go.&lt;/p&gt;
+
+&lt;p&gt;To kickstart the discussion here are few pain points I can think of.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Jurisdiction issue: People don&amp;rsquo;t know where to go to file a complaint. Jurisdiction allocated to each police station is weird. Footpath to some police station and main road to some other station, yeah that&amp;rsquo;s true.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;No nation wide complaint filing and tracking: Although policing is a state matter but still we can have a nation wide complaint filing and tracking system. Each complaint can then be redirected to the station responsible.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You are welcome to add to this list. Even discuss, what you want to see in such a system.&lt;/p&gt;
+
+&lt;p&gt;Thanks&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;2-the-blockchainer-aadhar-and-upi-edition&#34;&gt;2. The Blockchainer: Aadhar and UPI edition&lt;/h4&gt;
+
+&lt;p&gt;By: Jerric Lyns John (jerriclynsjohn)&lt;br /&gt;
+GST on blockchain&lt;br /&gt;
+31/08/2017 at 11:05 AM&lt;/p&gt;
+
+&lt;p&gt;We are starting a working group to present to the govt blockchain based implementation using AADHAR and UPI. The intention is to make a public document and code base left out for innovation from across the world. Intention is to streamline the process, which can be automated to a super great extend.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;3-will-my-efforts-materialise&#34;&gt;3. Will my efforts materialise?&lt;/h4&gt;
+
+&lt;p&gt;By: Gopal Krishan Aggarwal (gopalkriagg)&lt;br /&gt;
+Need help in starting&lt;br /&gt;
+17/03/2018 at 16:03 PM&lt;br /&gt;
+Hi! I am a software engineer really interested in contributing to India&amp;rsquo;s development. This looks like a nice place for that but I am not sure how my efforts will actually materialise. For example, I would like to know, from where are the projects available on OpenForge coming? Are they real government projects? If I contribute in any of them, will my time and effort actually impact people&amp;rsquo;s life?&lt;/p&gt;
+
+&lt;p&gt;By: Amit Savant (amitsavant)&lt;br /&gt;
+RE: Need help in starting&lt;br /&gt;
+03/04/2018 at 10:59 AM&lt;br /&gt;
+Dear Mr. Gopal, thank you very much for your interest in OpenForge and the willingness to contribute to the eGovernance projects. The projects on OpenForge are mostly contributed by Government departments. But private organisations, academic institutions and communities can also host projects on OpenForge as long as the projects are related to eGovernance domains and are open source. We are continuously working on bringing in an increasing number of projects on OpenForge. Any contribution to these projects will help to make eGovernance projects better.&lt;br /&gt;
+- OpenForge Team&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;He didn&amp;rsquo;t really answer the main question&lt;/em&gt; :/)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;4-i-m-appalled-thx&#34;&gt;4. I&amp;rsquo;m appalled, thx&lt;/h4&gt;
+
+&lt;p&gt;By: Sunil Choudhary (suchoudh)&lt;br /&gt;
+This forum needs a moderator.&lt;br /&gt;
+06/01/2019 at 01:29 AM&lt;/p&gt;
+
+&lt;p&gt;Guys&lt;br /&gt;
+We need a moderator.&lt;br /&gt;
+I am apalled to see the kind of spam in this forum.&lt;/p&gt;
+
+&lt;p&gt;Can you make me the moderator for the forums untill we have someone formally taking up the role.&lt;/p&gt;
+
+&lt;p&gt;thx&lt;br /&gt;
+Sunil Choudhary&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;conclusion-time&#34;&gt;Conclusion time&lt;/h3&gt;
+
+&lt;p&gt;I like that the government is actually trying to push Open Source. The execution of Openforge has a long way to go.&lt;/p&gt;
+
+&lt;p&gt;Contributing to Open Source can be quite daunting, and Openforge did not look welcoming at all to a student like me. The community still seems to be in its early stages and somewhat hushed and insular.&lt;/p&gt;
+
+&lt;p&gt;Maybe I&amp;rsquo;ll check back in a few years.&lt;/p&gt;
+
+&lt;p&gt;This wasn&amp;rsquo;t a review but Openforge gets a light &lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; for me.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Not sure where that &amp;lsquo;Y&amp;rsquo; came from ¯\_(ツ)_/¯
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;I did find a few more random projects where the code was actually viewable, but the vast majority of the popular ones seem to have this issue. I did notice that the all the projects having these issues seem to be from this one specific pool of contributors. Can&amp;rsquo;t explain it though.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Looks like the Indian Government has no interest in using &lt;a href=&#34;https://government.github.com/&#34;&gt;this&lt;/a&gt;.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -80,8 +351,12 @@ Openforge Around 2015 the Ministry of Electronics and IT (MeitY)1 made a bunch o
       <pubDate>Fri, 24 May 2019 21:17:47 +0530</pubDate>
       
       <guid>http://atharva.social/posts/echochamber/</guid>
-      <description>This blog is going to be very random initially and hopefully it shapes up into something I like. Right now focus is on quantity over quality (hence this post exists).
-As of now this blog is what my twitter account would have looked like had I used twitter. But unlike twitter this echo chamber is superior because it is only me, so it&amp;rsquo;s more echoey. The hollowness due to lack of traffic here should help to some effect too.</description>
+      <description>&lt;p&gt;This blog is going to be very random initially and hopefully it shapes up into something I like. Right now focus is on quantity over quality (hence this post exists).&lt;/p&gt;
+
+&lt;p&gt;As of now this blog is what my twitter account would have looked like had I used twitter. But unlike twitter this echo chamber is superior because it is only me, so it&amp;rsquo;s more echoey. The hollowness due to lack of traffic here should help to some effect too.&lt;/p&gt;
+
+&lt;p&gt;I was probably gonna write about &amp;ldquo;The Strange, Delightful and Mysterious World of IRC Channels&amp;rdquo; in an investigative style à la Reply All podcast, but it turns out IRC channels are dead hollow boring places where people talk something about nothing. Metaphor for this blog.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -90,7 +365,8 @@ As of now this blog is what my twitter account would have looked like had I used
       <pubDate>Sun, 20 Jan 2019 17:48:08 +0530</pubDate>
       
       <guid>http://atharva.social/resume/</guid>
-      <description>hahahaha what resume i just got into college</description>
+      <description>&lt;p&gt;hahahaha what resume i just got into college&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -99,10 +375,18 @@ As of now this blog is what my twitter account would have looked like had I used
       <pubDate>Sun, 20 Jan 2019 12:56:28 +0530</pubDate>
       
       <guid>http://atharva.social/aboutme/</guid>
-      <description>I&amp;rsquo;m not that good at describing myself so I let a friend who cannot draw Santa Claus do it:
-(definitely not edited to make myself look better)
- Atharva has an odd sense of humour and the curiosity of a five-year old. He is moderately easy to talk to and will most definitely appear like he knows everything about everything.
- I got a free server, a free domain, and a lot of free time, and that&amp;rsquo;s why you are seeing this.</description>
+      <description>&lt;p&gt;I&amp;rsquo;m not that good at describing myself so I let a friend who cannot draw Santa Claus do it:&lt;/p&gt;
+
+&lt;p&gt;(definitely not edited to make myself look better)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Atharva has an odd sense of humour and the curiosity of a five-year old. He is moderately easy to talk to and will most definitely &lt;em&gt;appear&lt;/em&gt; like he knows everything about everything.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I got a free server, a free domain, and a lot of free time, and that&amp;rsquo;s why you are seeing this.&lt;/p&gt;
+
+&lt;p&gt;You can find my résumé over &lt;a href=&#34;http://atharva.social/resume.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

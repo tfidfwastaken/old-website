@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 19:07:11 +0530</lastBuildDate>
     
-	<atom:link href="http://atharva.social/tags/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://atharva.social/tags/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,25 @@
       <pubDate>Sun, 29 Mar 2020 19:07:11 +0530</pubDate>
       
       <guid>http://atharva.social/feed/whywrite/</guid>
-      <description>My heuristic for figuring out whether I should say anything online:
- Has anyone said it more eloquently? Does it say/reveal something sufficiently new for most of the readers that will come across it? 1 Is my perspective on this is sufficiently unique and dictated by my experience?  And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.
- Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite [return]   </description>
+      <description>&lt;p&gt;My heuristic for figuring out whether I should say anything online:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Has anyone said it more eloquently?&lt;/li&gt;
+&lt;li&gt;Does it say/reveal something sufficiently new for most of the readers that will come across it? &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Is my perspective on this is sufficiently unique and dictated by my experience?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -28,10 +44,29 @@
       <pubDate>Wed, 01 Jan 2020 14:51:03 +0530</pubDate>
       
       <guid>http://atharva.social/feed/processandtests/</guid>
-      <description>A test evaluates the outcome of a process.
-A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.1
-Examples that come to mind:
- Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.</description>
+      <description>&lt;p&gt;A test evaluates the outcome of a process.&lt;/p&gt;
+
+&lt;p&gt;A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Examples that come to mind:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.&lt;/li&gt;
+&lt;li&gt;The Governments that modify the statistical criteria to make their economic growth look better.&lt;/li&gt;
+&lt;li&gt;p-value hacking in scientific journals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looks nice until we have to clean the mess of unemployable people taught to learn by rote, bad governance and bad science.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;I feel like I read a similar idea expressed somewhere on the internet recently but cannot put a finger to what and by whom it was. Oopsie. I&amp;rsquo;ll update this entry if I do find out.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>
