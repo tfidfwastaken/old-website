@@ -6,10 +6,26 @@
     <description>Recent content on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2020 12:26:44 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 19:02:07 +0530</lastBuildDate>
     
         <atom:link href="http://atharva.social/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Haiku</title>
+      <link>http://atharva.social/feed/haiku/</link>
+      <pubDate>Wed, 03 Jun 2020 19:02:07 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/haiku/</guid>
+      <description>&lt;p&gt;I attended a cute little Haiku workshop during &lt;a href=&#34;https://www.japanhabba.org/&#34;&gt;Japan Habba&lt;/a&gt; last February. This is what I made during the workshop:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;otter in water&lt;br /&gt;
+floating in an algal bloom&lt;br /&gt;
+lifeless&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Thoughts circa 2020/06</title>
@@ -26,8 +42,6 @@
 &lt;hr /&gt;
 
 &lt;p&gt;I think I am starting to get the appeal of Emacs. I would not recommend it to those who want to get productive quickly and those who do not really care for their programming environment. The selling point here is the value you get from Emacs increases over time, as you keep hacking away and adding small tweaks here and there, essentially making the editor adapt to you.&lt;/p&gt;
-
-&lt;hr /&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
