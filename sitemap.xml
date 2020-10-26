@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://atharva.social/feed/thing_i_dont_understand/</loc>
+    <lastmod>2020-10-26T11:33:51+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://atharva.social/feed/async_class/</loc>
     <lastmod>2020-09-30T14:20:41+05:30</lastmod>
   </url>
@@ -85,7 +90,7 @@
   
   <url>
     <loc>http://atharva.social/</loc>
-    <lastmod>2020-09-30T14:20:41+05:30</lastmod>
+    <lastmod>2020-10-26T11:33:51+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,7 +102,7 @@
   
   <url>
     <loc>http://atharva.social/feed/</loc>
-    <lastmod>2020-09-30T14:20:41+05:30</lastmod>
+    <lastmod>2020-10-26T11:33:51+05:30</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,22 @@
     <description>Recent content in Feed on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2020 14:20:41 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 11:33:51 +0530</lastBuildDate>
     
         <atom:link href="http://atharva.social/feed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A thing I don&#39;t understand</title>
+      <link>http://atharva.social/feed/thing_i_dont_understand/</link>
+      <pubDate>Mon, 26 Oct 2020 11:33:51 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/thing_i_dont_understand/</guid>
+      <description>&lt;p&gt;Add this to my expanding list of things I don&amp;rsquo;t understand: why is it &lt;em&gt;so&lt;/em&gt; hard to take feedback.&lt;/p&gt;
+
+&lt;p&gt;Whenever I create a friendly anonymous form which takes about 20ish seconds to fill, very few respond to it, and those who do will rate your thing something like a &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; will then say in the feedback comment something along the lines of “It was fine”, “No improvement needed” etc.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Async Class</title>
