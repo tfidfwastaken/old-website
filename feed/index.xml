@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feed on Atharva&#39;s Personal Page</title>
@@ -18,8 +17,7 @@
       
       <guid>http://atharva.social/feed/thing_i_dont_understand/</guid>
       <description>&lt;p&gt;Add this to my expanding list of things I don&amp;rsquo;t understand: why is it &lt;em&gt;so&lt;/em&gt; hard to take feedback?&lt;/p&gt;
-
-&lt;p&gt;Whenever I create a friendly anonymous form which takes about 20ish seconds to fill, very few respond to it, and those who do will rate your thing something like a &lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; will then say in the feedback comment something along the lines of “It was fine”, “No improvement needed” etc.&lt;/p&gt;
+&lt;p&gt;Whenever I create a friendly anonymous form which takes about 20ish seconds to fill, very few respond to it, and those who do will rate your thing something like a 7/10 will then say in the feedback comment something along the lines of “It was fine”, “No improvement needed” etc.&lt;/p&gt;
 </description>
     </item>
     
@@ -30,7 +28,6 @@
       
       <guid>http://atharva.social/feed/async_class/</guid>
       <description>&lt;p&gt;Why are uni classes not asynchronous smh&lt;/p&gt;
-
 &lt;p&gt;attempted nuance: let the lessons be async and provide optional question hours/office hours&lt;/p&gt;
 </description>
     </item>
@@ -52,10 +49,9 @@
       
       <guid>http://atharva.social/feed/haiku/</guid>
       <description>&lt;p&gt;I attended a cute little Haiku workshop during &lt;a href=&#34;https://www.japanhabba.org/&#34;&gt;Japan Habba&lt;/a&gt; last February. This is what I made during the workshop:&lt;/p&gt;
-
 &lt;blockquote&gt;
-&lt;p&gt;otter in water&lt;br /&gt;
-floating in an algal bloom&lt;br /&gt;
+&lt;p&gt;otter in water&lt;br&gt;
+floating in an algal bloom&lt;br&gt;
 lifeless&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -68,23 +64,18 @@ lifeless&lt;/p&gt;
       
       <guid>http://atharva.social/feed/thoughts-2020-06/</guid>
       <description>&lt;p&gt;In schools they try so hard to make boring stuff like arithmetic and recitation fun with songs, stories, illustrations and the like. In college they make my very exciting field as boring as possible. Yes, I grew up, but I reject this stuffy and bitter grown-up energy you are pushing onto the next generation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I read somewhere that novels are nothing but really elaborate lies. I like that idea, but the distinction to make here is most novels are upfront about the lies they peddle and this allows for the right amount of escapism to spark excitement in the reader&amp;rsquo;s mind. So if anything, many novelists are likely to be &lt;em&gt;bad&lt;/em&gt; liars because they need to pass off their stories as truth to truly be a lie.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
+&lt;p&gt;I read somewhere that novels are nothing but really elaborate lies. I like that idea, but the distinction to make here is most novels are upfront about the lies they peddle and this allows for the right amount of escapism to spark excitement in the reader&amp;rsquo;s mind. So if anything, many novelists are likely to be &lt;em&gt;bad&lt;/em&gt; liars because they need to pass off their stories as truth to truly be a lie.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;I think I am starting to get the appeal of Emacs. I would not recommend it to those who want to get productive quickly and those who do not really care for their programming environment. The selling point here is the value you get from Emacs increases over time, as you keep hacking away and adding small tweaks here and there, essentially making the editor adapt to you.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;I should start reading books again (:
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I should start reading books again (: &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -95,23 +86,14 @@ lifeless&lt;/p&gt;
       
       <guid>http://atharva.social/feed/thoughts-around-2020-q1/</guid>
       <description>&lt;p&gt;&amp;ldquo;The malls are soon to be ghost towns&amp;rdquo;, sings Isaac Brock on one of my favourite songs of Modest Mouse&amp;rsquo;s The Lonesome Crowded West.&lt;/p&gt;
-
 &lt;p&gt;Seems pretty literal now thanks to the pandemic.&lt;/p&gt;
-
 &lt;p&gt;Malls never went away when he said that, but there is in my opinion an undeniable emptiness created by an emphasis of shallow consumerism and a lack of authenticity in these huge complexes. This &amp;ldquo;mall phenomenon&amp;rdquo; isn&amp;rsquo;t just a mall thing. In the internet world small amateurish and homebrew websites and blogs declined in favour of large centralized hubs and walled gardens.&lt;/p&gt;
-
 &lt;p&gt;Google, Facebook and Amazon are the malls of the internet characterized by that same vague emptiness and lack of authenticity. Something about optimizing to make the most money ruins the fun I guess.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Mailing lists need to die already. I know many big projects rely on them historically and maybe find it hard to migrate all discussions. That makes me dislike them no less. Poor searchability and readability. Floods my inbox. Not fun.&lt;/p&gt;
-
 &lt;p&gt;I&amp;rsquo;m aware that there are ways to configure it and add workarounds to make them manageable, but I much prefer a good out of the box experience for things like these.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Hey Gen-Z boy, *question about your generation*?&lt;/p&gt;
-
 &lt;p&gt;I don&amp;rsquo;t know. Leave me alone actually.&lt;/p&gt;
 </description>
     </item>
@@ -123,23 +105,20 @@ lifeless&lt;/p&gt;
       
       <guid>http://atharva.social/feed/whywrite/</guid>
       <description>&lt;p&gt;My heuristic for figuring out whether I should say anything online:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Has anyone said it more eloquently?&lt;/li&gt;
-&lt;li&gt;Does it say/reveal something sufficiently new for most of the readers that will come across it? &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Does it say/reveal something sufficiently new for most of the readers that will come across it? &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;li&gt;Is my perspective on this is sufficiently unique and dictated by my experience?&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;And this is why I don&amp;rsquo;t have much writing online. Most of my ideas cannot percolate down those three questions.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Don&amp;rsquo;t have to worry about being new for the readers when there are no readers, amirite &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -151,7 +130,6 @@ lifeless&lt;/p&gt;
       <guid>http://atharva.social/feed/3dprinting/</guid>
       <description>&lt;p&gt;I did not realise that 3D printers are reasonably affordable now —
 one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
-
 &lt;p&gt;Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.&lt;/p&gt;
 </description>
     </item>
@@ -163,27 +141,22 @@ one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
       
       <guid>http://atharva.social/feed/processandtests/</guid>
       <description>&lt;p&gt;A test evaluates the outcome of a process.&lt;/p&gt;
-
-&lt;p&gt;A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
+&lt;p&gt;A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Examples that come to mind:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.&lt;/li&gt;
 &lt;li&gt;The Governments that modify the statistical criteria to make their economic growth look better.&lt;/li&gt;
 &lt;li&gt;p-value hacking in scientific journals.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Looks nice until we have to clean the mess of unemployable people taught to learn by rote, bad governance and bad science.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;I feel like I read a similar idea expressed somewhere on the internet recently but cannot put a finger to what and by whom it was. Oopsie. I&amp;rsquo;ll update this entry if I do find out.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I feel like I read a similar idea expressed somewhere on the internet recently but cannot put a finger to what and by whom it was. Oopsie. I&amp;rsquo;ll update this entry if I do find out. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -194,27 +167,20 @@ one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
       
       <guid>http://atharva.social/feed/vim/</guid>
       <description>&lt;p&gt;A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.&lt;/p&gt;
-
 &lt;p&gt;Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.&lt;/p&gt;
-
 &lt;p&gt;So with the irony not lost on me, here&amp;rsquo;s what I have to say about Vim, and whether it&amp;rsquo;s worth learning:&lt;/p&gt;
-
 &lt;p&gt;Vim is a trade-off involving time. To an experienced Vimmer, it supposedly greatly increases productivity. But to get to that experience where you are supposedly &lt;a href=&#34;https://wrongsideofmemphis.com/2013/03/27/vim-speed-is-not-really-the-point/&#34;&gt;coding like a samurai&lt;/a&gt; you need to invest time into learning this complicated multimodal paradigm for editing text.&lt;/p&gt;
-
 &lt;p&gt;As someone who invested a decent chunk of this time, it sure &lt;em&gt;feels&lt;/em&gt; faster and I am probably not going back to the standard way. But has it actually increased my productivity? I cannot tell as of now.&lt;/p&gt;
-
-&lt;p&gt;So if I am ever asked about whether one should learn Vim, I&amp;rsquo;d recommend against using it. Because the learning cost is huge and the benefit gained from it is, in my opinion, largely varying from person-to-person. So its worth is not clear. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
+&lt;p&gt;So if I am ever asked about whether one should learn Vim, I&amp;rsquo;d recommend against using it. Because the learning cost is huge and the benefit gained from it is, in my opinion, largely varying from person-to-person. So its worth is not clear. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;And this, shall be the first and last time I write about Vim.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Sysadmins – You have a stronger argument, as most *nix machines support Vim and it&amp;rsquo;s terminal friendly. But editors like nano exist as well with little to no learning curve.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Sysadmins – You have a stronger argument, as most *nix machines support Vim and it&amp;rsquo;s terminal friendly. But editors like nano exist as well with little to no learning curve. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -225,16 +191,12 @@ one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
       
       <guid>http://atharva.social/feed/internet-shutdown/</guid>
       <description>&lt;p&gt;You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.&lt;/p&gt;
-
 &lt;p&gt;Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.&lt;/p&gt;
-
 &lt;p&gt;And you end up with scenarios straight out of a dark comedy.
 As &lt;a href=&#34;https://www.medianama.com/2017/12/223-namapolicy-internet-shutdowns-happen-work/&#34;&gt;this article explains&lt;/a&gt;,&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;An amusing outcome of the 100-day ban was that since the internet was down, a state government order to lift the shutdown from Kolkata didn’t reach Darjeeling on time, so the ban kept getting extended by the district administration.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;It&amp;rsquo;s worth noting that if your area faces frequent internet shutdowns, it&amp;rsquo;s nice to keep &lt;a href=&#34;https://www.freepressjournal.in/india/internet-shutdown-toolkit-list-of-messaging-apps-that-will-work-without-internet&#34;&gt;these&lt;/a&gt;  in stock.&lt;/p&gt;
 </description>
     </item>

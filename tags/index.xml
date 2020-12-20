@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atharva&#39;s Personal Page</title>
@@ -6,10 +5,46 @@
     <description>Recent content in Tags on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 18:37:19 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 12:21:47 +0530</lastBuildDate>
     
         <atom:link href="http://atharva.social/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>floating point</title>
+      <link>http://atharva.social/tags/floating-point/</link>
+      <pubDate>Tue, 28 Jul 2020 12:21:47 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/floating-point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>practices</title>
+      <link>http://atharva.social/tags/practices/</link>
+      <pubDate>Tue, 28 Jul 2020 12:21:47 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>http://atharva.social/tags/emacs/</link>
+      <pubDate>Wed, 03 Jun 2020 12:26:44 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random thoughts</title>
+      <link>http://atharva.social/tags/random-thoughts/</link>
+      <pubDate>Wed, 03 Jun 2020 12:26:44 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/random-thoughts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3dprinting</title>
@@ -21,43 +56,7 @@
     </item>
     
     <item>
-      <title>Emacs</title>
-      <link>http://atharva.social/tags/emacs/</link>
-      <pubDate>Wed, 03 Jun 2020 12:26:44 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/emacs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floating Point</title>
-      <link>http://atharva.social/tags/floating-point/</link>
-      <pubDate>Tue, 28 Jul 2020 12:21:47 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/floating-point/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>http://atharva.social/tags/india/</link>
-      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opensource</title>
-      <link>http://atharva.social/tags/opensource/</link>
-      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/opensource/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opinion</title>
+      <title>opinion</title>
       <link>http://atharva.social/tags/opinion/</link>
       <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
       
@@ -66,29 +65,29 @@
     </item>
     
     <item>
-      <title>Practices</title>
-      <link>http://atharva.social/tags/practices/</link>
-      <pubDate>Tue, 28 Jul 2020 12:21:47 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/practices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random Thoughts</title>
-      <link>http://atharva.social/tags/random-thoughts/</link>
-      <pubDate>Wed, 03 Jun 2020 12:26:44 +0530</pubDate>
-      
-      <guid>http://atharva.social/tags/random-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vim</title>
+      <title>vim</title>
       <link>http://atharva.social/tags/vim/</link>
       <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
       
       <guid>http://atharva.social/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>india</title>
+      <link>http://atharva.social/tags/india/</link>
+      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>http://atharva.social/tags/opensource/</link>
+      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
+      
+      <guid>http://atharva.social/tags/opensource/</guid>
       <description></description>
     </item>
     

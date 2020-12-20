@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs on Atharva&#39;s Personal Page</title>
+    <title>emacs on Atharva&#39;s Personal Page</title>
     <link>http://atharva.social/tags/emacs/</link>
-    <description>Recent content in Emacs on Atharva&#39;s Personal Page</description>
+    <description>Recent content in emacs on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2020 12:26:44 +0530</lastBuildDate>
@@ -18,23 +17,18 @@
       
       <guid>http://atharva.social/feed/thoughts-2020-06/</guid>
       <description>&lt;p&gt;In schools they try so hard to make boring stuff like arithmetic and recitation fun with songs, stories, illustrations and the like. In college they make my very exciting field as boring as possible. Yes, I grew up, but I reject this stuffy and bitter grown-up energy you are pushing onto the next generation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;I read somewhere that novels are nothing but really elaborate lies. I like that idea, but the distinction to make here is most novels are upfront about the lies they peddle and this allows for the right amount of escapism to spark excitement in the reader&amp;rsquo;s mind. So if anything, many novelists are likely to be &lt;em&gt;bad&lt;/em&gt; liars because they need to pass off their stories as truth to truly be a lie.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
+&lt;p&gt;I read somewhere that novels are nothing but really elaborate lies. I like that idea, but the distinction to make here is most novels are upfront about the lies they peddle and this allows for the right amount of escapism to spark excitement in the reader&amp;rsquo;s mind. So if anything, many novelists are likely to be &lt;em&gt;bad&lt;/em&gt; liars because they need to pass off their stories as truth to truly be a lie.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;I think I am starting to get the appeal of Emacs. I would not recommend it to those who want to get productive quickly and those who do not really care for their programming environment. The selling point here is the value you get from Emacs increases over time, as you keep hacking away and adding small tweaks here and there, essentially making the editor adapt to you.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;I should start reading books again (:
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I should start reading books again (: &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     

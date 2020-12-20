@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3dprinting on Atharva&#39;s Personal Page</title>
@@ -19,7 +18,6 @@
       <guid>http://atharva.social/feed/3dprinting/</guid>
       <description>&lt;p&gt;I did not realise that 3D printers are reasonably affordable now —
 one of those few things that make me feel like 2020 has arrived.&lt;/p&gt;
-
 &lt;p&gt;Now the only need that remains is a steady supply of electricity that will let me do prints without interruptions.&lt;/p&gt;
 </description>
     </item>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Practices on Atharva&#39;s Personal Page</title>
+    <title>practices on Atharva&#39;s Personal Page</title>
     <link>http://atharva.social/tags/practices/</link>
-    <description>Recent content in Practices on Atharva&#39;s Personal Page</description>
+    <description>Recent content in practices on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2020 12:21:47 +0530</lastBuildDate>
@@ -17,16 +16,10 @@
       <pubDate>Tue, 28 Jul 2020 12:21:47 +0530</pubDate>
       
       <guid>http://atharva.social/posts/01_plus_02_is_not_03/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;This post is a crosspost of the original at &lt;a href=&#34;https://pesos.github.io/2020/07/22/01-plus-02-is-not-03.html&#34;&gt;the PES Open Source blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;underground_bw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;em&gt;This post is a crosspost of the original at &lt;a href=&#34;https://pesos.github.io/2020/07/22/01-plus-02-is-not-03.html&#34;&gt;the PES Open Source blog&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;underground_bw.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Yeah, I know this year has been terrible. Maybe the only silver lining is that you don’t have to worry about the pandemic anymore with the nuclear winter above and all.&lt;/p&gt;
-
 &lt;p&gt;But you still gotta eat and resources in this underground bunker are scarce. Luckily you won the contract to conduct the post mortem for how you got here in the first place. So you clone the source of this disaster.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;underground@pc-3 ~$ git clone http://www.un.org/peace/no_nukes_guaranteed.git
 Cloning into &#39;no_nukes_guaranteed&#39;...
 remote: Counting objects: 21824551877, done.
@@ -39,7 +32,6 @@ underground@pc-3 ~/no_nukes_guaranteed $ ls -a
 no_nukes.py   public/      readme.xlsx    scipy_src.txt
 style.css     winrar.exe   worm.so
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Ah yes. You know Python! Let’s see what went wrong in &lt;code&gt;no_nukes.py&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.1&lt;/span&gt;
 &lt;span style=&#34;color:#000&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2&lt;/span&gt;
@@ -48,11 +40,9 @@ style.css     winrar.exe   worm.so
 &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.3&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt;
     &lt;span style=&#34;color:#000&#34;&gt;do_nothing&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;
 &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;else&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt;
-    &lt;span style=&#34;color:#000&#34;&gt;launch_nukes&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;That’s bizarre. Clearly 0.1 + 0.2 is equal to 0.3 right? It should have done nothing!&lt;/p&gt;
-
+    &lt;span style=&#34;color:#000&#34;&gt;launch_nukes&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;That’s bizarre. Clearly 0.1 + 0.2 is equal to 0.3 right? It should have done nothing!&lt;/p&gt;
 &lt;p&gt;Well given that there’s not much else to do, you decide to try it out on a Python interpreter.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;underground@pc-3 ~/no_nukes_guaranteed $ python3
 Python 3.6.9 (default, Aug 18 2020, 01:56:04) 
 [GCC 8.4.0] on linux
@@ -64,29 +54,17 @@ False
 &amp;gt;&amp;gt;&amp;gt; 0.1 + 0.2
 0.30000000000000004
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h3 id=&#34;1913&#34;&gt;1913&lt;/h3&gt;
-
 &lt;p&gt;Leonardo Torres y Quevado wrote a paper called “Essays on Automatics” which was him flexing over why his electromechanical imaginary computer is better than whatever trendy moth-murdering movable mechanistic calculator Babbage-boy created back then.&lt;/p&gt;
-
 &lt;p&gt;In that paper he also almost casually proposed a way to represent real numbers.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h3 id=&#34;25-february-1991&#34;&gt;25 February 1991&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;patriot_missile.png&#34; alt=&#34;The Patriot Missile&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;patriot_missile.png&#34; alt=&#34;The Patriot Missile&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Back before half of humanity exterminated itself with the accidental nuke launch, they were partaking in a mutual cleansing of existence, albeit on a smaller but more deliberate scale. This was the Gulf War and an incoming Iraqi Scud missile had just hit an American Army barracks, killing 28 soldiers. The Patriot Missile Defense systems were supposed to intercept this missile, but for whatever reason the Scud went outside the Patriot’s tracking range. A report found that in eight hours the internal clock was off by 0.0275 seconds. In a 100 hours it was off by 0.34 seconds. It seemed to be proportionally increasing with time.&lt;/p&gt;
-
 &lt;p&gt;Taking into account account the speed of the Scud, which was about 1.6 kilometers per second, it had already beat the Patriot by $0.34 \times 1.6 = 0.544$ kilometers.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Python is a horrendous joke of a language, you think. Clearly it’s not a language for Real Programmers. It deserves to be resigned to making SEO blogspam generators with that GPT3 nonsense.&lt;/p&gt;
-
 &lt;p&gt;So you whip out the trusty Go, merely as a mental exercise of how you would have prevented this disaster.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;main&lt;/span&gt;
 
@@ -96,8 +74,8 @@ False
 
 &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
         &lt;span style=&#34;color:#000&#34;&gt;fmt&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Println&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.1&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.3&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
-&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;code&gt;true&lt;/code&gt;. Excellent. And now to finish this up and make the equivalent &lt;code&gt;nukes_will.go&lt;/code&gt;.&lt;/p&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;true&lt;/code&gt;. Excellent. And now to finish this up and make the equivalent &lt;code&gt;nukes_will.go&lt;/code&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
         &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float64&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.1&lt;/span&gt;
         &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float64&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2&lt;/span&gt;
@@ -106,14 +84,11 @@ False
         &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;else&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
                 &lt;span style=&#34;color:#000&#34;&gt;fmt&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;Println&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Nukes launched!&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
         &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
-&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;And then you smugly hit Run.&lt;/p&gt;
-
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And then you smugly hit Run.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Nukes launched!
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;Horrified, you reach out to the other languages.&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;Clojure:
 (+ 0.1 0.2)   ; 0.30000000000000004
 
@@ -123,29 +98,17 @@ Julia:
 Haskell:
 0.1 + 0.2    -- 0.30000000000000004
 &lt;/code&gt;&lt;/pre&gt;
-
 &lt;p&gt;What a pity! These were supposed to be sophisticated languages. You found that some languages like PHP and GNU Octave did return &lt;code&gt;0.3&lt;/code&gt; but, they did not pass the equality test which would have stopped the nukes.&lt;/p&gt;
-
 &lt;p&gt;Your stomach grumbles. You haven’t eaten. Well, you’ve found the source, might as well cash in the canned fish you’d get for this contract. You did find the cause, after all.&lt;/p&gt;
-
 &lt;p&gt;As you reach for the power button, you feel your fingers tense up. Your mind is not letting you do this.&lt;/p&gt;
-
-&lt;p&gt;You &lt;em&gt;have&lt;/em&gt; to know.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;You &lt;em&gt;have&lt;/em&gt; to know.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;2020-in-a-parallel-universe-with-no-pandemics-or-nuclear-meltdowns&#34;&gt;2020, in a parallel universe with no pandemics or nuclear meltdowns&lt;/h3&gt;
-
 &lt;p&gt;Yogenderprakashan Sarvepalli was hanging out with his buddy Anu at the college library.&lt;/p&gt;
-
 &lt;p&gt;“Anu, I have been trying to hack at the source code of &lt;em&gt;Money Bunny&lt;/em&gt; so that everytime the Bunny hits the Evil Ducks™, I get extra coin.”&lt;/p&gt;
-
 &lt;p&gt;Anu rolled her eyes.&lt;/p&gt;
-
 &lt;p&gt;“Look,” he sighed, “There’s this handler which changes the game state everytime I punch the Ducks. It should increment my &lt;code&gt;money&lt;/code&gt; variable by one. It’s doing diddly-squat.”&lt;/p&gt;
-
 &lt;p&gt;“Yoge, you know full well I am not going through that Rabbit nonsense.”&lt;/p&gt;
-
 &lt;p&gt;“At least have a look at this snippet I made that does the same thing,” he said, tilting his laptop to her.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;money_inc&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;money&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
     &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;money&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
@@ -159,65 +122,38 @@ Haskell:
     &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
     &lt;span style=&#34;color:#000&#34;&gt;printf&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;money&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;);&lt;/span&gt;
     &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;;&lt;/span&gt;
-&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;“Why does this work, but not my progra—”&lt;/p&gt;
-
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;“Why does this work, but not my progra—”&lt;/p&gt;
 &lt;p&gt;“Why are you using a float?”&lt;/p&gt;
-
 &lt;p&gt;“I don’t know, because that’s what the game does?”&lt;/p&gt;
-
 &lt;p&gt;“That’s the problem. I read about this in a blog the other day.”&lt;/p&gt;
-
 &lt;p&gt;“Bu-but there’s no problem in &lt;em&gt;this&lt;/em&gt; code, it prints 100000.”&lt;/p&gt;
-
 &lt;p&gt;“Ay you wait da,” she said while ripping a page from her lab observation book.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;floats_labsketch.png&#34; alt=&#34;Anu’s lab sketch&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;floats_labsketch.png&#34; alt=&#34;Anu’s lab sketch&#34;&gt;&lt;/p&gt;
 &lt;p&gt;“You see, the higher a floating point number goes, the less precise it gets.&lt;/p&gt;
-
-&lt;p&gt;You can think of floating point numbers having a sign bit, a window and an offset. The window tells us between which consecutive power of two the number is in. So something like:&lt;br /&gt;
-$[0.5, 1]$ if we have the window as $-1$ (because $2^{-1}$),&lt;br /&gt;
-$[2, 4]$ if we have the window as $1$ (because $2^{1}$),&lt;br /&gt;
+&lt;p&gt;You can think of floating point numbers having a sign bit, a window and an offset. The window tells us between which consecutive power of two the number is in. So something like:&lt;br&gt;
+$[0.5, 1]$ if we have the window as $-1$ (because $2^{-1}$),&lt;br&gt;
+$[2, 4]$ if we have the window as $1$ (because $2^{1}$),&lt;br&gt;
 $[4, 8]$ if we have the window as $2$ (because $2^{2}$)&lt;/p&gt;
-
-&lt;p&gt;&amp;#x2026;and so on.”&lt;/p&gt;
-
+&lt;p&gt;…and so on.”&lt;/p&gt;
 &lt;p&gt;“The offset helps us locate the exact number in that range, basically telling us that, if we divide up the range in the window into equal parts, at what index in that range will we land on the number we want to represent?”&lt;/p&gt;
-
 &lt;p&gt;“So if you notice that the larger the number in our window, the larger the &lt;em&gt;range&lt;/em&gt; of numbers it can represent. Hence, we lose precision as we can divide the range only by the size of our offset.”&lt;/p&gt;
-
 &lt;p&gt;Yoge scratched his head.&lt;/p&gt;
-
 &lt;p&gt;“Okay,” she sighed, “Say my offset can take a number from 1 to 10. The window tells me our number is between 1 and 2. What would my offset value be, to represent 1.4?”&lt;/p&gt;
-
 &lt;p&gt;“Well the offset should be 4, because between 1 and 2, we can go up by only 0.1 if we divide it equally, and the fourth such number will give us 1.4, because $1 + 4 \times 0.1$”&lt;/p&gt;
-
-&lt;p&gt;“Correct. Now say our range is from 2 to 4. How do I get&amp;#x2026; 2.5?”&lt;/p&gt;
-
-&lt;p&gt;Yoge thought for a while, and said, “Oh, you can’t.”&lt;br /&gt;
+&lt;p&gt;“Correct. Now say our range is from 2 to 4. How do I get… 2.5?”&lt;/p&gt;
+&lt;p&gt;Yoge thought for a while, and said, “Oh, you can’t.”&lt;br&gt;
 “If I divide the numbers between 2 and 4 by 10, I can only go up by 0.2 with each index. So I can represent 2.4 and 2.6, but not 2.5!”&lt;/p&gt;
-
 &lt;p&gt;“Exactly. So the larger your number—”&lt;/p&gt;
-
 &lt;p&gt;“The lesser the precision at which I can represent it,” said Yoge, wide-eyed.&lt;/p&gt;
-
 &lt;p&gt;“But what does this have to do with &lt;em&gt;Money Bunny&lt;/em&gt;?” he said.&lt;/p&gt;
-
 &lt;p&gt;“How much coin did you have in the game?”&lt;/p&gt;
-
 &lt;p&gt;“A lot actually,” said Yoge smugly – “Something like 10000000000000000 at least with all my hacking going on.”&lt;/p&gt;
-
-&lt;p&gt;“Yes, and with a float that large, you are getting so imprecise that adding one does not let you jump to the next number. It just rounds back to the same number. Try adding a larger number and it should work. Or better yet, ask the developer to not use floats for a value that keeps increasing!”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
+&lt;p&gt;“Yes, and with a float that large, you are getting so imprecise that adding one does not let you jump to the next number. It just rounds back to the same number. Try adding a larger number and it should work. Or better yet, ask the developer to not use floats for a value that keeps increasing!”&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Yogenderprakashan Sarvepalli was so enlightened by this realization that he started levitating and slowly ascended to the heavens above.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;You have already gone through the printed copy of IEEE 754 that you found lying around the office. It didn’t make much sense to you with it’s overly technical language, and the fact that the rats chewed off some of the sheets did not help.&lt;/p&gt;
-
 &lt;p&gt;But you did figure out a few things.&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;The languages that did show &lt;code&gt;0.1 + 0.2 = 0.3&lt;/code&gt; were just sheltering you from the harsh reality. The moment you configure the language’s print function to show upto 17 digits, you are presented with the all too familiar &lt;code&gt;0.30000000000000004&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;You were being lied to about &lt;code&gt;0.1&lt;/code&gt;, &lt;code&gt;0.2&lt;/code&gt; &lt;em&gt;and&lt;/em&gt; &lt;code&gt;0.3&lt;/code&gt;. If you set the precision accordingly, you get the following in a Python interpreter:&lt;/li&gt;
@@ -229,36 +165,24 @@ $[4, 8]$ if we have the window as $2$ (because $2^{2}$)&lt;/p&gt;
     &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;print&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;{0.2: .25f}&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
      &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2000000000000000111022302&lt;/span&gt;
     &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;print&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;{0.3: .25f}&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
-     &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2999999999999999888977698&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;So the comparison fails at multiple levels. You are adding the wrong numbers in the first place to get another wrong number, and then you compare that with a third wrong number, expecting it to be true. Oof.&lt;/p&gt;
-
+     &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.2999999999999999888977698&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;So the comparison fails at multiple levels. You are adding the wrong numbers in the first place to get another wrong number, and then you compare that with a third wrong number, expecting it to be true. Oof.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Strangely enough you did notice this:
-&lt;code&gt;python
-&amp;gt;&amp;gt;&amp;gt; print(f&#39;{0.5: .50f}&#39;)
- 0.50000000000000000000000000000000000000000000000000
-&lt;/code&gt;
-It got 0.5 exactly correct!&lt;/li&gt;
+&lt;li&gt;Strangely enough you did notice this:&lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;    &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;print&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;{0.5: .50f}&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;)&lt;/span&gt;
+     &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0.50000000000000000000000000000000000000000000000000&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;It got 0.5 exactly correct!&lt;/p&gt;
 &lt;p&gt;And you start noticing a pattern while typing away at the interpreter. Any fractional number which can be represented by a constant multiplied by a power of 2 gets represented correctly, like 0.125, 0.625, $\frac{23}{32}$, etc.&lt;/p&gt;
-
 &lt;p&gt;Power of two. Of course.&lt;/p&gt;
-
 &lt;p&gt;You try to write the binary representation of 0.1 by hand, which gives you:&lt;/p&gt;
-
 &lt;pre&gt;&lt;code&gt;0.000110011001...
 &lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;A non-terminating sequence. &lt;code&gt;1001&lt;/code&gt; at the end goes on forever. This is the binary version of something like $$&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; = 0.333&amp;hellip;$$.&lt;/p&gt;
-
+&lt;p&gt;A non-terminating sequence. &lt;code&gt;1001&lt;/code&gt; at the end goes on forever. This is the binary version of something like $$1/3 = 0.333&amp;hellip;$$.&lt;/p&gt;
 &lt;p&gt;At some point the infinite binary sequence is chopped off because they had to fit the float in the 32 bits it was given. Hence the rounding error.&lt;/p&gt;
-
 &lt;p&gt;You also notice that when you print with the formatting a number like &lt;code&gt;1000000000000000.3&lt;/code&gt; the fractional part gets more inaccurate than just &lt;code&gt;0.3&lt;/code&gt;. Looks like floats get less precise as the values increase. So clearly the designers of &lt;code&gt;no_nukes.py&lt;/code&gt; should not select whatever floats their boats, and &lt;em&gt;definitely&lt;/em&gt; not whatever bloats their floats.&lt;/p&gt;
-
 &lt;p&gt;Now that you finally understand the problem, you toy with the idea of what could have been, had you designed this program. Sigh. But one can still hope.&lt;/p&gt;
-
-&lt;p&gt;So the way you compare floats in a program is to define a relative tolerance that is acceptable to you, and handle a bunch of edge cases. In Java, it would look something like this:&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;So the way you compare floats in a program is to define a relative tolerance that is acceptable to you, and handle a bunch of edge cases. In Java, it would look something like this:&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;boolean&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;nearlyEqual&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;b&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;,&lt;/span&gt;
                                            &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;epsilon&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;{&lt;/span&gt;
         &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;final&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;float&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;absA&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Math&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#c4a000&#34;&gt;abs&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;);&lt;/span&gt;
@@ -276,15 +200,11 @@ It got 0.5 exactly correct!&lt;/li&gt;
 &lt;/span&gt;&lt;span style=&#34;color:#8f5902;font-style:italic&#34;&gt;&lt;/span&gt;                &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;diff&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Math&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#c4a000&#34;&gt;min&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;((&lt;/span&gt;&lt;span style=&#34;color:#000&#34;&gt;absA&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;absB&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;),&lt;/span&gt;
                                    &lt;span style=&#34;color:#000&#34;&gt;Float&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#c4a000&#34;&gt;MAX_VALUE&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;epsilon&lt;/span&gt;&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;;&lt;/span&gt;
         &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;}&lt;/span&gt;
-&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Yikes.&lt;/p&gt;
-
+&lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Yikes.&lt;/p&gt;
 &lt;p&gt;You know it’s probably good to not really use floats at all. You don’t need the speed here, anyway. When it comes to preventing nukes from ending it all, it’s best to go slower but be precise. Maybe you could write a library that represents numbers digit-wise, and grow and reduce the digits by allocating memory as needed. Actually, does that already exist?&lt;/p&gt;
-
 &lt;p&gt;Wait, is that what Go was doing? It seems that Go has its numeric literals be arbitrary precision numbers, which turn into floating point as you put them in variables!&lt;/p&gt;
-
 &lt;p&gt;You go through the offline copies of the Python documentation, and find the document for &lt;code&gt;Decimal&lt;/code&gt;. Perfect. This fixed point, arbitrary precision representation is what you need. Or what was needed to save the world.&lt;/p&gt;
-
 &lt;p&gt;And so you type in,&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;decimal&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Decimal&lt;/span&gt;
 
@@ -295,44 +215,37 @@ It got 0.5 exactly correct!&lt;/li&gt;
 &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;b&lt;/span&gt; &lt;span style=&#34;color:#ce5c00;font-weight:bold&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#000&#34;&gt;Decimal&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;0.3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;):&lt;/span&gt;
     &lt;span style=&#34;color:#000&#34;&gt;do_nothing&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;
 &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;else&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt;
-    &lt;span style=&#34;color:#000&#34;&gt;launch_nukes&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;If only you were hired.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+    &lt;span style=&#34;color:#000&#34;&gt;launch_nukes&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If only you were hired.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;appendix-how-to-make-money-disappear&#34;&gt;Appendix: How to make money disappear&lt;/h3&gt;
-
 &lt;p&gt;Use floating point! You may think that small rounding errors may not be damaging enough, but do not worry, my friend, for errors collect over time.&lt;/p&gt;
-
 &lt;p&gt;Not only can small rounding errors that accumulate do wonders like &lt;a href=&#34;https://en.wikipedia.org/wiki/Vancouver_Stock_Exchange#Rounding_errors_on_its_Index_price&#34;&gt;reduce the index of a stock market to almost half its actual value&lt;/a&gt;, but it can also reduce customer credibility, knowing that your calculations are never accurate especially when money is involved :D&lt;/p&gt;
-
 &lt;p&gt;/end sarcasm&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;h3 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://floating-point-gui.de/&#34;&gt;Floating Point Guide&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fabiensanglard.net/floating_point_visually_explained/&#34;&gt;Floating Point Visually Explained&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://softwareengineering.stackexchange.com/questions/224859/when-do-rounding-problems-become-a-real-problem-is-the-least-significant-digit&#34;&gt;When do rounding problems become a real problem?&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://0.30000000000000004.com/&#34;&gt;Floating Point Errors in almost every language&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://floating-point-gui.de/&#34;&gt;Floating Point Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fabiensanglard.net/floating_point_visually_explained/&#34;&gt;Floating Point Visually Explained&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://softwareengineering.stackexchange.com/questions/224859/when-do-rounding-problems-become-a-real-problem-is-the-least-significant-digit&#34;&gt;When do rounding problems become a real problem?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://0.30000000000000004.com/&#34;&gt;Floating Point Errors in almost every language&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;&lt;p&gt;I know what you are thinking.
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I know what you are thinking.
 “Why didn’t I google the cause?”
-For starters the post would be absolutely dull if I allowed that. For now I seal this plot hole with “Google and all other major search engines did not survive that nuclear disaster”.&lt;/p&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;It is very likely that the developer of &lt;em&gt;Money Bunny&lt;/em&gt; chose a float because a float lets you represent a higher maximum value for the same 4 bits as compared to an integer. But there is no free lunch. Imagine if Unix time was represented as a float instead of an integer. We would have been able to represent time all the way till 5395141535403007094485264579465 AD rather than the very low year of &lt;a href=&#34;https://en.wikipedia.org/wiki/Year_2038_problem&#34;&gt;2038&lt;/a&gt;. But it’s good that we did not, because if we did, we would have to increment by 128 by now to be able to change the value of Unix time at all!
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;This solution is still prone to issues, and there are &lt;a href=&#34;https://bitbashing.io/comparing-floats.html&#34;&gt;other techniques&lt;/a&gt;, none of which are a 100% perfect. It’s best to leave this work for standard libraries and that will only save you boilerplate, and &lt;em&gt;hopefully&lt;/em&gt; most of the time.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+For starters the post would be absolutely dull if I allowed that. For now I seal this plot hole with “Google and all other major search engines did not survive that nuclear disaster”. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;It is very likely that the developer of &lt;em&gt;Money Bunny&lt;/em&gt; chose a float because a float lets you represent a higher maximum value for the same 4 bits as compared to an integer. But there is no free lunch. Imagine if Unix time was represented as a float instead of an integer. We would have been able to represent time all the way till 5395141535403007094485264579465 AD rather than the very low year of &lt;a href=&#34;https://en.wikipedia.org/wiki/Year_2038_problem&#34;&gt;2038&lt;/a&gt;. But it’s good that we did not, because if we did, we would have to increment by 128 by now to be able to change the value of Unix time at all! &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This solution is still prone to issues, and there are &lt;a href=&#34;https://bitbashing.io/comparing-floats.html&#34;&gt;other techniques&lt;/a&gt;, none of which are a 100% perfect. It’s best to leave this work for standard libraries and that will only save you boilerplate, and &lt;em&gt;hopefully&lt;/em&gt; most of the time. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 </description>
     </item>
     
